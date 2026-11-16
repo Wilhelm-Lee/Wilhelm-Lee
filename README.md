@@ -15,7 +15,4 @@ Currently working on:
 ![codeSize](https://img.shields.io/github/languages/code-size/Wilhelm-Lee/Compound)  
 <!-- ![license](https://img.shields.io/github/license/Wilhelm-Lee/Compound)  -->
 
-Contact me via email:  
-`william_pascal@outlook.com`  
-
 Welcome collaborations.
